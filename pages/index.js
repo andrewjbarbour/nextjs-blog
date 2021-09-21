@@ -22,7 +22,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Andrew. I'm a software engineer at Altair.
+          Hi, I'm Andy. I'm a software engineer at Altair.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
